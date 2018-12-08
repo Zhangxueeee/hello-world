@@ -1,6 +1,6 @@
 # hello-world
 just another repository
 
-I an made of insects, I just don't know code.
+I'm studying insects, and I just don't know code.
 
 
